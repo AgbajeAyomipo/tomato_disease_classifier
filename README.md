@@ -12,7 +12,7 @@ A deep learning web app that classifies tomato leaf diseases into 11 distinct ca
    * Tomato Yellow Leaf Curl Virus
    * Septoria leaf spot
    * Target Spot
-   
+
 * Upload an image of a tomato leaf, and the model returns the top 5 most probable diseases along with their confidence scores.
 
 ---
@@ -67,7 +67,7 @@ Example Output:
 
 1. Clone this repo:
    ```bash
-   https://github.com/AgbajeAyomipo/tomato_disease_classifier.git
+   git clone https://github.com/AgbajeAyomipo/tomato_disease_classifier.git
    cd tomato-disease-classifier
    ```
 
