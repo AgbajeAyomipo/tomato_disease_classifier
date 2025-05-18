@@ -12,14 +12,15 @@ A deep learning web app that classifies tomato leaf diseases into 11 distinct ca
    * Tomato Yellow Leaf Curl Virus
    * Septoria leaf spot
    * Target Spot
+   
 * Upload an image of a tomato leaf, and the model returns the top 5 most probable diseases along with their confidence scores.
 
 ---
 
 ## 🚀 Demo
 
-👉 **[Try the App Here](#)**  
-Hosted on Hugging Face Spaces using Streamlit.
+👉 **[Try the App Here](https://huggingface.co/spaces/AyoAgbaje/tomato_disease_classifier)**  
+Hosted on Hugging Face Spaces using gradio.
 
 ---
 
@@ -27,7 +28,7 @@ Hosted on Hugging Face Spaces using Streamlit.
 
 The model was trained using a dataset from Kaggle:  
 **[Tomato Leaf Disease Dataset](https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources)**  
-It includes 11 classes of tomato diseases and healthy leaves.
+It includes 11 classes of tomato diseases including healthy leaves.
 
 ---
 
@@ -89,7 +90,7 @@ Or just click the hosted version above and try it directly in your browser!
 - 📁 Dataset: [Kaggle Dataset Link Here](https://www.kaggle.com/datasets/cookiefinder/tomato-disease-multiple-sources)  
 - 📓 Notebook: [Kaggle Notebook Link Here](https://www.kaggle.com/code/agbajeayomipo/disease-classifier-efficientnetb0-acc-95)  
 - 💻 GitHub Repo: [Your GitHub Repo Link Here](https://github.com/AgbajeAyomipo/tomato_disease_classifier.git)  
-- 🌐 Live Demo: [Hugging Face Spaces Link Here](#)
+- 🌐 Live Demo: [Hugging Face Spaces Link Here](https://huggingface.co/spaces/AyoAgbaje/tomato_disease_classifier)
 
 ---
 
