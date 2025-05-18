@@ -1,0 +1,7 @@
+torch
+matplotlib
+gradio
+numpy
+pandas
+lightning
+pillow
